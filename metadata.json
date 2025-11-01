@@ -1,0 +1,5 @@
+{
+  "name": "VEO3 Senior Health Video Builder",
+  "description": "An advanced tool to generate detailed VEO3 prompts from a health script, specifically optimized for a senior audience. Features include controlled pacing, high-contrast visuals, clear audio instructions, and consistent character generation.",
+  "requestFramePermissions": []
+}
